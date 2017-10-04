@@ -63,3 +63,11 @@ class App extends React.Component{
 
 render(<App/>, window.document.getElementById('app'));
 ```
+###### Create Different Compoents
+- app
+  - components
+    - common
+      - Header.js
+      - Footer.js
+    - Home
+      - Home.js
